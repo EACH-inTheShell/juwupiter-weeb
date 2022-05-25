@@ -1,0 +1,6 @@
+# Eu tenho pedras nos rins
+
+User-agent: *
+Disallow: /mensagemParaClovis.html
+Disallow: /nicolasCage.html
+Disallow: /acessoHiperMegaRestrito.html
